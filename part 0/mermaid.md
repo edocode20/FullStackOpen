@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
 
 sequenceDiagram
     participant browser
